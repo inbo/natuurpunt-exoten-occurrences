@@ -260,6 +260,7 @@ samplingProtocol:
     - catch and removed
     - catch and removed | catch # Somewhat odd, but considered OK
     - catch and removed | seen
+    - catch and translocated
     - catch by electrofishing
     - catch by fishermen # Not in dataset
     - catch by fishing rod
@@ -285,6 +286,7 @@ samplingProtocol:
     - observation with flashlight # Not in dataset
     - observation with hydrophone # Not in dataset
     - pellet examination
+    - pellet examination | seen
     - pellet examination | seen indoors
     - pheromones bait # Not in dataset
     - pitfall trap

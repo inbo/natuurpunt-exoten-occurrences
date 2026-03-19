@@ -122,9 +122,11 @@ samplingProtocol:
     - DNA barcoding
     - casual observation
     - catch and removed
+    - catch and translocated
     - catch by hand and collected
     - seen
     - specimen collected
+    - specimen collected | DNA barcoding
 
 eventDate:
   dateformat: ['%Y-%m-%d'] # YYYY-MM-DD
