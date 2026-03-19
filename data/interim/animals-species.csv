@@ -28,6 +28,7 @@ https://waarnemingen.be/species/105015,Lophonetta specularioides,species,Andesee
 https://waarnemingen.be/species/105295,Aphis nerii,species,Oleanderbladluis
 https://waarnemingen.be/species/105563,Schistocerca gregaria,species,Woestijnsprinkhaan
 https://waarnemingen.be/species/105737,Gryllomorpha dalmatina,species,Spleetkrekel
+https://waarnemingen.be/species/105778,Trigonidium cicindeloides,species,Keverkrekel
 https://waarnemingen.be/species/105796,Cyrtaspis scutata,species,Schildboomsprinkhaan
 https://waarnemingen.be/species/106259,Yersinella raymondii,species,Tweekleurige kreupelhoutsabel
 https://waarnemingen.be/species/106283,Oedaleus decorus,species,Kruissprinkhaan
@@ -36,7 +37,6 @@ https://waarnemingen.be/species/106671,Branta canadensis/hutchinsii x Branta leu
 https://waarnemingen.be/species/106837,Samia cynthia,species,Hemelboomvlinder
 https://waarnemingen.be/species/110,Branta canadensis,species,Grote Canadese Gans
 https://waarnemingen.be/species/116,Psittacula krameri,species,Halsbandparkiet
-https://waarnemingen.be/species/1177530,Taeniopygia castanotis / guttata,multispecies,Zebravink
 https://waarnemingen.be/species/1177565,Aceria kuko,species,Boksdoornmijt
 https://waarnemingen.be/species/1177732,Aurelia coerulea,species,Aziatische oorkwal
 https://waarnemingen.be/species/1185811,Lepisma saccharinum,species,Zilvervisje
@@ -93,6 +93,7 @@ https://waarnemingen.be/species/159053,Eopineus strobus,species,Weymouthwolluis
 https://waarnemingen.be/species/159054,Gilletteella cooleyi,species,Douglaswolluis
 https://waarnemingen.be/species/159060,Viteus vitifoliae,species,Druifluis
 https://waarnemingen.be/species/159141,Bruchidius siliquastri,species,Judasboomkever
+https://waarnemingen.be/species/159182,Hexaplex trunculus,species,Gebandeerde purperstekelhoren
 https://waarnemingen.be/species/159197,Isodontia mexicana,species,Mexicaanse zwartsteel
 https://waarnemingen.be/species/159430,Cicadidae indet.,multispecies,Zangcicade onbekend
 https://waarnemingen.be/species/159572,Adelges laricis,species,Lorkluis
@@ -116,10 +117,10 @@ https://waarnemingen.be/species/16694,Graptemys pseudogeographica,species,Zaagru
 https://waarnemingen.be/species/1674,Anas capensis,species,Kaapse Taling
 https://waarnemingen.be/species/1676,Anas bahamensis,species,Bahamapijlstaart
 https://waarnemingen.be/species/1681,Myiopsitta monachus,species,Monniksparkiet
-https://waarnemingen.be/species/1683,Psittacus erithacus,species,Grijze Roodstaartpapegaai
-https://waarnemingen.be/species/1684,Ovis gmelini musimon,subspecies,Europese Moeflon
+https://waarnemingen.be/species/1683,Psittacus erithacus erithacus,subspecies,Grijze Roodstaartpapegaai ssp erithacus
+https://waarnemingen.be/species/1684,Ovis gmelinii musimon,subspecies,Europese Moeflon
 https://waarnemingen.be/species/1699,Radjah radjah,species,Radjaheend
-https://waarnemingen.be/species/171,Oxyura jamaicensis,species,Rosse Stekelstaart
+https://waarnemingen.be/species/171,Oxyura jamaicensis jamaicensis,subspecies,Rosse Stekelstaart ssp jamaicensis
 https://waarnemingen.be/species/17199,Mustela putorius furo,forma,Fret
 https://waarnemingen.be/species/17207,Anas castanea,species,Kastanjetaling
 https://waarnemingen.be/species/17237,Tadorna cana,species,Kaapse Casarca
@@ -203,6 +204,7 @@ https://waarnemingen.be/species/195537,Chrysemys picta bellii,subspecies,Westeli
 https://waarnemingen.be/species/1958,Lophodytes cucullatus,species,Kokardezaagbek
 https://waarnemingen.be/species/1968,Euplectes afer,species,Napoleonwever
 https://waarnemingen.be/species/197279,Apis mellifera carnica,subspecies,Carnicabij
+https://waarnemingen.be/species/197512,Crematogaster spec.,multispecies,Schorpioenmier onbekend
 https://waarnemingen.be/species/197514,Crematogaster scutellaris,species,Rode schorpioenmier
 https://waarnemingen.be/species/197583,Halyomorpha halys,species,Bruingemarmerde schildwants
 https://waarnemingen.be/species/1982,Anser indicus x Branta canadensis,hybrid,Hybride Indische Gans x Grote Canadese Gans
@@ -279,7 +281,6 @@ https://waarnemingen.be/species/20982,Cygnus buccinator,species,Trompetzwaan
 https://waarnemingen.be/species/20992,Anarhynchus pecuarius,species,Herdersplevier
 https://waarnemingen.be/species/21001,Anser indicus x Anser canagica,hybrid,Hybride Indische Gans x Keizergans
 https://waarnemingen.be/species/21005,Branta leucopsis x Anser canagica,hybrid,Hybride Brandgans x Keizergans
-https://waarnemingen.be/species/21008,Porphyrio poliocephalus,species,Grijskoppurperkoet
 https://waarnemingen.be/species/210093,Zoropsis spinimana,species,Valse wolfspin
 https://waarnemingen.be/species/210097,Oxycarenus lavaterae,species,Lindenspitskop
 https://waarnemingen.be/species/210249,Otala lactea,species,Getande melkslak
@@ -325,7 +326,7 @@ https://waarnemingen.be/species/2242,Carpodacus sibiricus,species,Langstaartrood
 https://waarnemingen.be/species/22436,Proterorhinus semilunaris,species,Marmergrondel
 https://waarnemingen.be/species/22490,Monochamus galloprovincialis,species,Dennen geelschildboktor
 https://waarnemingen.be/species/2252,Nyctereutes procyonoides,species,Marterhond
-https://waarnemingen.be/species/2256,Taeniopygia guttata,species,Soendazebravink
+https://waarnemingen.be/species/2256,Taeniopygia guttata guttata,subspecies,Soendazebravink
 https://waarnemingen.be/species/2260,Pholcus phalangioides,species,Grote trilspin
 https://waarnemingen.be/species/2266,Psittacula derbiana,species,Lord Derby's Parkiet
 https://waarnemingen.be/species/2268,Acridotheres tristis,species,Treurmaina
@@ -347,6 +348,7 @@ https://waarnemingen.be/species/235,Branta canadensis / hutchinsii,multispecies,
 https://waarnemingen.be/species/235017,Cochlicella spec.,multispecies,Duinhoren onbekend
 https://waarnemingen.be/species/235068,Ruditapes philippinarum,species,Filipijnse tapijtschelp
 https://waarnemingen.be/species/235080,Cernuella spec.,multispecies,Duinslak onbekend
+https://waarnemingen.be/species/235178,Columbella rustica,species,Boerenduifhoren
 https://waarnemingen.be/species/236,Tadorna ferruginea,species,Casarca
 https://waarnemingen.be/species/23721,Potamopyrgus antipodarum,species,Jenkins' waterhorentje
 https://waarnemingen.be/species/23747,Uloborus plumipes,species,Kaskaardespin
@@ -370,6 +372,7 @@ https://waarnemingen.be/species/24839,Pithyotettix abietinus,species,Pithyotetti
 https://waarnemingen.be/species/24840,Placotettix taeniatifrons,species,Placotettix taeniatifrons
 https://waarnemingen.be/species/24846,Populicerus albicans,species,Populicerus albicans
 https://waarnemingen.be/species/24885,Tremulicerus distinguendus,species,Tremulicerus distinguendus
+https://waarnemingen.be/species/24990,Stephanitis oberti,species,Vossenbesnetwants
 https://waarnemingen.be/species/24992,Stephanitis rhododendri,species,Rododendronnetwants
 https://waarnemingen.be/species/25327,Raglius alboacuminatus,species,Balloterookwants
 https://waarnemingen.be/species/25407,Gallus gallus var. domestica,forma,Kip (gedomesticeerd)
@@ -384,6 +387,8 @@ https://waarnemingen.be/species/260,Threskiornis aethiopicus,species,Heilige Ibi
 https://waarnemingen.be/species/26023,Phthorimaea operculella,species,Aardappelmot
 https://waarnemingen.be/species/26056,Sitotroga cerealella,species,Graanmot
 https://waarnemingen.be/species/261,Corvus splendens,species,Huiskraai
+https://waarnemingen.be/species/26133,Epichoristodes acerbella,species,Afrikaanse anjerbladroller
+https://waarnemingen.be/species/261350,Taeniopygia guttata,species,Zebravink
 https://waarnemingen.be/species/261788,Chloris spinoides,species,Himalayagroenling
 https://waarnemingen.be/species/26313,Cryptoblabes gnidiella,species,Citruslichtmot
 https://waarnemingen.be/species/26353,Cadra figulilella,species,Vijgenmot
@@ -436,6 +441,7 @@ https://waarnemingen.be/species/27114,Mytilopsis leucophaeata,species,Brakwaterm
 https://waarnemingen.be/species/27118,Chelicorophium robustum,species,Grote Kaspische slijkgarnaal
 https://waarnemingen.be/species/27140,Mnemiopsis leidyi,species,Amerikaanse ribkwal
 https://waarnemingen.be/species/27150,Oriolus auratus,species,Afrikaanse Wielewaal
+https://waarnemingen.be/species/27176,Aramides ypecaha,species,Reuzenbosral
 https://waarnemingen.be/species/27179,Sciurus carolinensis,species,Noord-Amerikaanse Grijze Eekhoorn
 https://waarnemingen.be/species/27181,Sciurus variegatoides dorsalis,subspecies,Midden Amerikaanse Eekhoorn ssp dorsalis
 https://waarnemingen.be/species/27198,Ctenolepisma longicaudatum,species,Papiervisje
@@ -475,12 +481,14 @@ https://waarnemingen.be/species/546917,Popillia japonica,species,Japanse kever
 https://waarnemingen.be/species/552821,Misgurnus anguillicaudatus,species,Aziatische modderkruiper
 https://waarnemingen.be/species/553599,Melita nitida,species,Amerikaanse melita
 https://waarnemingen.be/species/554466,Macropsis vicina,species,Abeelmaskercicade
+https://waarnemingen.be/species/554911,Camponotus fallax,species,Boomdeuklip
 https://waarnemingen.be/species/555952,Neodexiospira brasiliensis,species,Braziliaanse kalkkokerworm
 https://waarnemingen.be/species/556336,Rhagoletis completa,species,Walnootboorvlieg
 https://waarnemingen.be/species/560857,Icius hamatus,species,Gehaakte prachtspringer
 https://waarnemingen.be/species/561169,Amaurobius erberi,species,Mediterrane kaardespin
 https://waarnemingen.be/species/561245,Procambarus virginalis,species,Marmerkreeft
 https://waarnemingen.be/species/561247,Procambarus acutus,species,Gestreepte Amerikaanse rivierkreeft
+https://waarnemingen.be/species/561340,Donax serra,species,Raspzaagje
 https://waarnemingen.be/species/562027,Badonnelia titei,species,Keverstofluis
 https://waarnemingen.be/species/563712,Porrhoclubiona leucaspis,species,Witrugzakspin
 https://waarnemingen.be/species/595959,Capra hircus,species,Gedomesticeerde Geit
@@ -544,6 +552,7 @@ https://waarnemingen.be/species/70425,Colinus virginianus,species,Bobwhite
 https://waarnemingen.be/species/70452,Dendrocygna eytoni,species,Australische Fluiteend
 https://waarnemingen.be/species/70453,Dendrocygna arcuata,species,Zwervende Fluiteend
 https://waarnemingen.be/species/70455,Dendrocygna arborea,species,Cubaanse Fluiteend
+https://waarnemingen.be/species/70458,Oxyura jamaicensis,species,Rosse Stekelstaart
 https://waarnemingen.be/species/70461,Oxyura vittata,species,Argentijnse Stekelstaart
 https://waarnemingen.be/species/70469,Chloephaga melanoptera,species,Andesgans
 https://waarnemingen.be/species/70471,Chloephaga poliocephala,species,Grijskopgans
@@ -606,7 +615,7 @@ https://waarnemingen.be/species/73286,Buteo jamaicensis,species,Roodstaartbuizer
 https://waarnemingen.be/species/73291,Buteo regalis,species,Rosse Ruigpootbuizerd
 https://waarnemingen.be/species/73292,Buteo auguralis,species,Afrikaanse Roodstaartbuizerd
 https://waarnemingen.be/species/73301,Aquila rapax,species,Savannearend
-https://waarnemingen.be/species/73334,Milvago chimachima,species,Geelkopcaracara
+https://waarnemingen.be/species/73334,Daptrius chimachima,species,Geelkopcaracara
 https://waarnemingen.be/species/73357,Falco sparverius,species,Amerikaanse Torenvalk
 https://waarnemingen.be/species/73451,Egretta novaehollandiae,species,Witwangreiger
 https://waarnemingen.be/species/73471,Ardeola speciosa,species,Javaanse Ralreiger
@@ -644,8 +653,8 @@ https://waarnemingen.be/species/78030,Ploceus jacksoni,species,Jacksons Wever
 https://waarnemingen.be/species/78067,Quelea quelea,species,Roodbekwever
 https://waarnemingen.be/species/78152,Amandava amandava,species,Tijgervink
 https://waarnemingen.be/species/78154,Amandava subflava,species,Goudbuikje
-https://waarnemingen.be/species/78165,Bathilda ruficauda,species,Binsenastrild
-https://waarnemingen.be/species/78166,Aidemosyne modesta,species,Ceresamadine
+https://waarnemingen.be/species/78165,Emblema ruficauda,species,Binsenastrild
+https://waarnemingen.be/species/78166,Emblema modestum,species,Ceresamadine
 https://waarnemingen.be/species/78170,Poephila acuticauda,species,Spitsstaartamadine
 https://waarnemingen.be/species/78186,Euodice cantans,species,Zilverbekje
 https://waarnemingen.be/species/78192,Lonchura striata,species,Gestreept Bronzemannetje
@@ -657,6 +666,7 @@ https://waarnemingen.be/species/78303,Spinus tristis,species,Goudsijs
 https://waarnemingen.be/species/78330,Carpodacus roseus,species,Pallas' Roodmus
 https://waarnemingen.be/species/78348,Mycerobas icterioides,species,Geelnekdikbek
 https://waarnemingen.be/species/788368,Blaptica dubia,species,Argentijnse kakkerlak
+https://waarnemingen.be/species/789021,Conus ventricosus,species,Mediterrane kegelslak
 https://waarnemingen.be/species/789249,Phytomyza jucunda,species,Japanse hulstvlieg
 https://waarnemingen.be/species/789863,Tetrix depressa,species,Gedeukt doorntje
 https://waarnemingen.be/species/79002,Phonipara canora,species,Cubaanse Grasgors
@@ -712,6 +722,7 @@ https://waarnemingen.be/species/81485,Mauremys rivulata,species,Balkanbeekschild
 https://waarnemingen.be/species/81486,Mauremys leprosa,species,Moorse beekschildpad
 https://waarnemingen.be/species/81773,Eublepharis macularius,species,Luipaardgekko
 https://waarnemingen.be/species/81949,Cydalima perspectalis,species,Buxusmot
+https://waarnemingen.be/species/820034,Tapinoma magnum,species,Westmediterraan draaigatje
 https://waarnemingen.be/species/82124,Castor canadensis,species,Canadese Bever
 https://waarnemingen.be/species/82213,Callosciurus prevostii,species,Driekleureekhoorn
 https://waarnemingen.be/species/822542,Gyraulus parvus f. parvus,forma,Amerikaanse gladde schijfhoren
@@ -751,7 +762,6 @@ https://waarnemingen.be/species/85774,Suricata suricatta,species,Stokstaartje
 https://waarnemingen.be/species/85924,Caprella equilibra,species,Bruingevlekte spookkreeft
 https://waarnemingen.be/species/8598,Magallana gigas,species,Japanse oester
 https://waarnemingen.be/species/8616,Numida meleagris,species,Helmparelhoen
-https://waarnemingen.be/species/86212,Aonyx cinereus,species,Dwergotter
 https://waarnemingen.be/species/86306,Ovis aries,species,Schaap
 https://waarnemingen.be/species/8653,Caracara plancus,species,Kuifcaracara
 https://waarnemingen.be/species/86632,Duttaphrynus melanostictus,species,Lijstenpad
@@ -782,6 +792,8 @@ https://waarnemingen.be/species/910221,Graptemys pseudogeographica pseudogeograp
 https://waarnemingen.be/species/910222,Graptemys pseudogeographica kohni,subspecies,Mississippi landkaartschildpad
 https://waarnemingen.be/species/911155,Ischadium recurvum,species,Gebogen traliemossel
 https://waarnemingen.be/species/911216,Microscolex phosphoreus,species,Fosforworm
+https://waarnemingen.be/species/911232,Hexaplex cichoreum,species,Andijviestekelhoren
+https://waarnemingen.be/species/911234,Angaria delphinus,species,Dolfijnslak
 https://waarnemingen.be/species/911478,Mulinia lateralis,species,Amerikaanse strandschelp
 https://waarnemingen.be/species/914006,Cryptorchestia garbinii,species,Oeverspringer
 https://waarnemingen.be/species/925966,Potamocorbula amurensis,species,Brakwaterkorfschelp
