@@ -91,6 +91,7 @@ occurrenceRemarks:
     delimiter: ' | '
     allowed:
       - accidentally introduced
+      - aecium
       - anamorph
       - deviant form
       - escaped
@@ -108,8 +109,11 @@ occurrenceRemarks:
       - propagule
       - seen while diving # Not in dataset
       - sown
+      - spermogonium
       - sprouting # Not in dataset
       - teleomorph
+      - telium
+      - uredinium
       - washed ashore
 
 samplingProtocol:
