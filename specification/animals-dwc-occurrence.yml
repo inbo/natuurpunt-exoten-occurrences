@@ -267,6 +267,7 @@ samplingProtocol:
     - catch by hand
     - catch by hand and collected
     - catch by hand and released
+    - catch and removed | catch by hand and released # Somewhat odd, but considered ok
     - catch by net
     - catch by pod
     - catch by pole
