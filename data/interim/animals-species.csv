@@ -7,7 +7,7 @@ https://waarnemingen.be/species/10086,Micropogonias undulatus,species,Knorrepos
 https://waarnemingen.be/species/10087,Neogobius melanostomus,species,Zwartbekgrondel
 https://waarnemingen.be/species/1013821,Naupactus xanthographus,species,Zuid-Amerikaanse fruitboomsnuitkever
 https://waarnemingen.be/species/1014017,Limacus maculatus,species,Groene aardslak
-https://waarnemingen.be/species/1015687,Cairina moschata var. domestica,forma,Gedomesticeerde Muskuseend
+https://waarnemingen.be/species/1015687,Cairina moschata f. domestica,forma,Gedomesticeerde Muskuseend
 https://waarnemingen.be/species/101874,Elaphe taeniura,species,Prachtslang
 https://waarnemingen.be/species/102052,Pelodiscus sinensis,species,Chinese weekschildpad
 https://waarnemingen.be/species/1020850,Ophelimus maskelli,species,Eucalyptusgalwesp
@@ -47,14 +47,15 @@ https://waarnemingen.be/species/1201065,Philoscia affinis forma trifasciata,form
 https://waarnemingen.be/species/1219064,Argyresthia sabinae,species,Aziatische Pedaalmot
 https://waarnemingen.be/species/124,Anser indicus,species,Indische Gans
 https://waarnemingen.be/species/1259,Serinus canaria,species,Kanarie
-https://waarnemingen.be/species/133559,Anser anser var. domestica x Branta leucopsis,hybrid,Hybride Parkgans x Brandgans
+https://waarnemingen.be/species/133559,Anser anser f. domesticus x Branta leucopsis,hybrid,Hybride Parkgans x Brandgans
 https://waarnemingen.be/species/1390,Ondatra zibethicus,species,Bisamrat
+https://waarnemingen.be/species/1392,Branta hutchinsii hutchinsii,subspecies,Hutchins' Canadese Gans
 https://waarnemingen.be/species/1400,Phoenicopterus ruber,species,Caribische Flamingo
 https://waarnemingen.be/species/1401,Phoenicopterus roseus,species,Flamingo
 https://waarnemingen.be/species/1402,Cygnus melancoryphus,species,Zwarthalszwaan
 https://waarnemingen.be/species/1403,Mareca sibilatrix,species,Chileense Smient
 https://waarnemingen.be/species/1408,Anser canagicus,species,Keizergans
-https://waarnemingen.be/species/1413,Anser anser var. domestica,forma,Parkgans
+https://waarnemingen.be/species/1413,Anser anser f. domesticus,forma,Parkgans
 https://waarnemingen.be/species/1417,Ara macao,species,Geelvleugelara
 https://waarnemingen.be/species/1418,Parabuteo unicinctus,species,Woestijnbuizerd
 https://waarnemingen.be/species/1424,Trachemys scripta elegans,subspecies,Roodwangschildpad
@@ -71,10 +72,10 @@ https://waarnemingen.be/species/1496,Leptinotarsa decemlineata,species,Coloradok
 https://waarnemingen.be/species/1509,Rattus norvegicus,species,Bruine Rat
 https://waarnemingen.be/species/151,Cairina moschata,species,Muskuseend
 https://waarnemingen.be/species/151881,Pelophylax cf. bedriagae,species,Anatolische Meerkikker
-https://waarnemingen.be/species/151884,Serinus canaria var. domestica,forma,Kanarie (gedomesticeerd)
+https://waarnemingen.be/species/151884,Serinus canaria f. domestica,forma,Kanarie (gedomesticeerd)
 https://waarnemingen.be/species/152,Alopochen aegyptiaca,species,Nijlgans
 https://waarnemingen.be/species/153050,Euscorpius flavicaudis,species,Europese zwarte schorpioen
-https://waarnemingen.be/species/153228,Aix sponsa x Anas platyrhynchos var. domestica,hybrid,Hybride Carolina-eend x Parkeend
+https://waarnemingen.be/species/153228,Aix sponsa x Anas platyrhynchos f. domesticus,hybrid,Hybride Carolina-eend x Parkeend
 https://waarnemingen.be/species/155096,Cernuella neglecta,species,Afgevlakte duinslak
 https://waarnemingen.be/species/156555,Rhagoletis cingulata,species,Oost-Amerikaanse kersenboorvlieg
 https://waarnemingen.be/species/156628,Pulvinaria regalis,species,Koningsdopluis
@@ -100,7 +101,7 @@ https://waarnemingen.be/species/159197,Isodontia mexicana,species,Mexicaanse zwa
 https://waarnemingen.be/species/159430,Cicadidae indet.,multispecies,Zangcicade onbekend
 https://waarnemingen.be/species/159572,Adelges laricis,species,Lorkluis
 https://waarnemingen.be/species/159573,Adelges tardus,species,Late sparrenluis
-https://waarnemingen.be/species/159602,Anser anser var. domestica x Branta canadensis,hybrid,Hybride Parkgans x Grote Canadese Gans
+https://waarnemingen.be/species/159602,Anser anser f. domesticus x Branta canadensis,hybrid,Hybride Parkgans x Grote Canadese Gans
 https://waarnemingen.be/species/1599,Alectoris chukar,species,Aziatische Steenpatrijs
 https://waarnemingen.be/species/160007,Blastobasis adustella,species,Donkere spaandermot
 https://waarnemingen.be/species/160008,Blastobasis lacticolella,species,Witte spaandermot
@@ -263,6 +264,7 @@ https://waarnemingen.be/species/205948,Xenopus laevis,species,Afrikaanse Klauwki
 https://waarnemingen.be/species/20602,Syrmaticus reevesii,species,Koningsfazant
 https://waarnemingen.be/species/20707,Psittacidae indet.,multispecies,Papegaai onbekend
 https://waarnemingen.be/species/20724,Genetta genetta,species,Gewone Genetkat
+https://waarnemingen.be/species/20756,Steatoda grossa,species,Grote steatoda
 https://waarnemingen.be/species/20758,Aratinga nenday,species,Nandayparkiet
 https://waarnemingen.be/species/20759,Psittacara leucophthalmus,species,Witoogaratinga
 https://waarnemingen.be/species/20774,Anas luzonica,species,Filipijnse Eend
@@ -378,7 +380,7 @@ https://waarnemingen.be/species/24885,Tremulicerus distinguendus,species,Tremuli
 https://waarnemingen.be/species/24990,Stephanitis oberti,species,Vossenbesnetwants
 https://waarnemingen.be/species/24992,Stephanitis rhododendri,species,Rododendronnetwants
 https://waarnemingen.be/species/25327,Raglius alboacuminatus,species,Balloterookwants
-https://waarnemingen.be/species/25407,Gallus gallus var. domestica,forma,Kip (gedomesticeerd)
+https://waarnemingen.be/species/25407,Gallus gallus f. domesticus,forma,Kip (gedomesticeerd)
 https://waarnemingen.be/species/25553,Opogona sacchari,species,Bananenboorder
 https://waarnemingen.be/species/25554,Opogona omoscopa,species,Ananasboorder
 https://waarnemingen.be/species/25580,Caloptilia azaleella,species,Azaleasteltmot
@@ -699,7 +701,8 @@ https://waarnemingen.be/species/801211,Clepsis peritana,species,Yankee
 https://waarnemingen.be/species/80176,Tarentola mauritanica,species,Muurgekko
 https://waarnemingen.be/species/80184,Zamenis longissimus,species,Esculaapslang
 https://waarnemingen.be/species/80193,Vulpes lagopus,species,Poolvos
-https://waarnemingen.be/species/80199,Columba livia var. domestica,forma,Postduif
+https://waarnemingen.be/species/80195,Capra ibex,species,Alpensteenbok
+https://waarnemingen.be/species/80199,Columba livia f. domestica,forma,Postduif
 https://waarnemingen.be/species/80205,Periplaneta americana,species,Grote kakkerlak
 https://waarnemingen.be/species/802260,Balanus glandula,species,Pacifische zeepok
 https://waarnemingen.be/species/802310,Pycnoscelus surinamensis,species,Surinaamse kakkerlak
@@ -781,15 +784,15 @@ https://waarnemingen.be/species/881,Pluvianus aegyptius,species,Krokodilwachter
 https://waarnemingen.be/species/88220,Vulpes zerda,species,Fennek
 https://waarnemingen.be/species/8866,Eobania vermiculata,species,Pastaslak
 https://waarnemingen.be/species/8887,Faxonius limosus,species,Gevlekte Amerikaanse rivierkreeft
-https://waarnemingen.be/species/8891,Harmonia axyridis f. succinea,variety,Veelstippig Aziatisch lieveheersbeestje
-https://waarnemingen.be/species/8892,Harmonia axyridis f. axyridis,variety,Veelvlekkig Aziatisch lieveheersbeestje
-https://waarnemingen.be/species/8893,Harmonia axyridis f. spectabilis,variety,Viervlekkig Aziatisch lieveheersbeestje
-https://waarnemingen.be/species/8894,Harmonia axyridis f. conspicua,variety,Tweevlekkig Aziatisch lieveheersbeestje
+https://waarnemingen.be/species/8891,Harmonia axyridis f. succinea,forma,Veelstippig Aziatisch lieveheersbeestje
+https://waarnemingen.be/species/8892,Harmonia axyridis f. axyridis,forma,Veelvlekkig Aziatisch lieveheersbeestje
+https://waarnemingen.be/species/8893,Harmonia axyridis f. spectabilis,forma,Viervlekkig Aziatisch lieveheersbeestje
+https://waarnemingen.be/species/8894,Harmonia axyridis f. conspicua,forma,Tweevlekkig Aziatisch lieveheersbeestje
 https://waarnemingen.be/species/8895,Anas flavirostris,species,Chileense Taling
 https://waarnemingen.be/species/8905,Thermobia domestica,species,Ovenvisje
 https://waarnemingen.be/species/8953,Harmonia axyridis,species,Aziatisch lieveheersbeestje
 https://waarnemingen.be/species/9022,Oena capensis,species,Maskerduif
-https://waarnemingen.be/species/905202,Anser cygnoides var. domestica,forma,Chinese Knobbelgans
+https://waarnemingen.be/species/905202,Anser cygnoides f. domesticus,forma,Chinese Knobbelgans
 https://waarnemingen.be/species/910126,Oryctolagus cuniculus domesticus,variety,Tam Konijn
 https://waarnemingen.be/species/910138,Aceria cerrea,species,Moseikmijt
 https://waarnemingen.be/species/910221,Graptemys pseudogeographica pseudogeographica,subspecies,Onechte landkaartschildpad
